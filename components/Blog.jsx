@@ -9,7 +9,6 @@ const Post = ({
     title,
     slug,
     author,
-    category,
     publishedAt,
   },
 }) => {

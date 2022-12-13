@@ -6,17 +6,17 @@ import { client } from "../lib/client";
 const UpcomingEventsPage = ({ upcomingevents }) => (
   <>
     <Head>
-      <title>Upcoming Events | Uquicks.com</title>
+      <title>Upcoming Events | GleanAssist</title>
       <meta
         name="keywords"
-        content="Welcome to Latest and upcoming events in uganda - rwenzori region and abroad events, Welcome to avariety of Blog posts like make money online,free internet, data tricks, tech posts, quick loan tutorials, insurance, electricity, anotrny, mortage and much more, sell anything in kasese, buy online kasese, SEO tools, Graphics design Tools, Tour Advisor tools, hotel advisor tools and much more Uquicks.com, Kasese News Updates, Kasese Technology, Loans in Kasese, Insurance in Kasese, Make Money Kasese, Kasese Entertainment, Free Data Kasese,how to see my ubteb results online, how to see my uneb results online,how to see my unmeb results online, Services at Free Costs in Kasese, Rwenzori tv live Rwenzori tv live streaming,"
+        content="Welcome to Latest and upcoming events in uganda - rwenzori region and abroad events, Welcome to avariety of Blog posts like make money online,free internet, data tricks, tech posts, quick loan tutorials, insurance, electricity, anotrny, mortage and much more, sell anything in kasese, buy online kasese, SEO tools, Graphics design Tools, Tour Advisor tools, hotel advisor tools and much more GleanAssist, Kasese News Updates, Kasese Technology, Loans in Kasese, Insurance in Kasese, Make Money Kasese, Kasese Entertainment, Free Data Kasese,how to see my ubteb results online, how to see my uneb results online,how to see my unmeb results online, Services at Free Costs in Kasese, Rwenzori tv live Rwenzori tv live streaming,"
       />
       <meta
         name="description"
         content="Welcome to Latest and upcoming events in uganda - rwenzori region and abroad events"
       />
-      <meta property="og:title" content="Upcoming Events | Uquicks.com" />
-      <link rel="icon" href="/uquicks-logo.png" />
+      <meta property="og:title" content="Upcoming Events | GleanAssist" />
+      <link rel="icon" href="/gleanassist.png" />
       <meta name="viewport" content="initial-scale=1,width=device-width" />
       <meta charset="utf-8" />
       <meta name="theme-color" content="#000000" />

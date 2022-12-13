@@ -5,15 +5,15 @@ const Terms = () => {
   return (
     <>
       <Head>
-        <title>Terms and Conditions | Uquicks.com</title>
+        <title>Terms and Conditions | GleanAssist</title>
         <meta
           name="description"
-          content="Welcome to Uquicks company. These Terms of Service govern your use
-          of our website located at uquicks.com together “Service” operated by Uquicks."
+          content="Welcome to GleanAssist company. These Terms of Service govern your use
+          of our website located at GleanAssist together “Service” operated by GleanAssist."
         />
         <meta
           property="og:title"
-          content="Terms and Conditions | Uquicks.com"
+          content="Terms and Conditions | GleanAssist"
         />
         {/* <link rel="icon" href="/images/smlogo.png" /> */}
         <link
@@ -43,15 +43,15 @@ const Terms = () => {
           <b className="text-3xl font-semibold">1. Introduction</b>
         </p>
         <p className="my-3">
-          Welcome to <b>Uquicks</b> Company!
+          Welcome to <b>GleanAssist</b> Company!
         </p>
         <p className="my-3">
           These Terms of Service Terms of Service govern your use of our website
           located at{" "}
           <b>
-            <a href="https://www.uquicks.com">uquicks.com</a>
+            <a href="https://www.gleanassist.xyz">GleanAssist</a>
           </b>{" "}
-          together “Service” operated by <b>Uquicks</b>.
+          together “Service” operated by <b>GleanAssist</b>.
         </p>
         <p className="my-3">
           Our Privacy Policy also governs your use of our Service and explains
@@ -166,12 +166,12 @@ const Terms = () => {
           subject to these Terms.
         </p>
         <p className="my-3">
-          Uquicks has the right but not the obligation to monitor and edit all
+          GleanAssist has the right but not the obligation to monitor and edit all
           Content provided by users.
         </p>
         <p className="my-3">
           In addition, Content found on or through this Service are the property
-          of Uquicks or used with permission. You may not distribute, modify,
+          of GleanAssist or used with permission. You may not distribute, modify,
           transmit, reuse, download, repost, copy, or use said Content, whether
           in whole or in part, for commercial purposes or for personal gain,
           without express advance written permission from us.
@@ -310,10 +310,10 @@ const Terms = () => {
         <p className="my-3">
           Service and its original content (excluding Content provided by
           users), features and functionality are and will remain the exclusive
-          property of Uquicks and its licensors. Service is protected by
+          property of GleanAssist and its licensors. Service is protected by
           copyright, trademark, and other laws of and foreign countries. Our
           trademarks may not be used in connection with any product or service
-          without the prior written consent of Uquicks.
+          without the prior written consent of GleanAssist.
         </p>
         <p className="my-3">
           <b className="text-3xl font-semibold">12. Copyright Policy</b>
@@ -409,10 +409,10 @@ const Terms = () => {
         </p>
         <p className="my-3">
           Our Service may contain links to third party web sites or services
-          that are not owned or controlled by Uquicks.
+          that are not owned or controlled by GleanAssist.
         </p>
         <p className="my-3">
-          Uquicks has no control over, and assumes no responsibility for the
+          GleanAssist has no control over, and assumes no responsibility for the
           content, privacy policies, or practices of any third party web sites
           or services. We do not warrant the offerings of any of these
           entities/individuals or their websites.
@@ -603,7 +603,7 @@ const Terms = () => {
           </a>{" "}
           were created for{" "}
           <b>
-            <a href="https://www.uquicks.com">uquicks.com</a>
+            <a href="https://www.gleanassist.xyz">GleanAssist</a>
           </b>{" "}
           by <a href="https://policymaker.io">PolicyMaker.io</a> on 2022-11-20.
         </p>

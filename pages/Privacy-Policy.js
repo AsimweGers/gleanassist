@@ -5,7 +5,7 @@ const Privacy = () => {
   return (
     <>
       <Head>
-        <title>Privacy Policy | Uquicks.com</title>
+        <title>Privacy Policy | GleanAssist</title>
         <meta
           name="description"
           content="If you choose to use our Service, then you agree to the collection and
@@ -31,24 +31,17 @@ const Privacy = () => {
           rel="stylesheet"
           type="text/css"
         />
-        <meta name="viewport" content="initial-scale=1,width=device-width" />
-        <meta charset="utf-8" />
-        <meta name="theme-color" content="#000000" />
-        <meta name="msvalidate.01" content="636CB3ADD97C4DABBF11D6B5656DB622" />
-        <link rel="manifest" href="/manifest.json" />
-        <link href="/static/css/2.a844480a.chunk.css" rel="stylesheet" />
-        <link href="/static/css/main.283a044d.chunk.css" rel="stylesheet" />
       </Head>
       <div className="transition duration-500 ease transform hover:-translate-y-1 inline-block items-center lg:items-center px-6 py-3">
         <h1 className="text-4xl font-semibold my-3">
-          Privacy Policy for Uquicks
+          Privacy Policy for GleanAssist
         </h1>
 
         <p className="my-3">
-          At Uquicks, accessible from http://uquicks.com, one of our main
+          At GleanAssist, accessible from http://GleanAssist, one of our main
           priorities is the privacy of our visitors. This Privacy Policy
           document contains types of information that is collected and recorded
-          by Uquicks and how we use it.
+          by GleanAssist and how we use it.
         </p>
 
         <p className="my-3">
@@ -59,7 +52,7 @@ const Privacy = () => {
         <p className="my-3">
           This Privacy Policy applies only to our online activities and is valid
           for visitors to our website with regards to the information that they
-          shared and/or collect in Uquicks. This policy is not applicable to any
+          shared and/or collect in GleanAssist. This policy is not applicable to any
           information collected offline or via channels other than this website.
           Our Privacy Policy was created with the help of the{" "}
           <a href="https://h-supertools.com/web/privacy-policy-generator/">
@@ -118,7 +111,7 @@ const Privacy = () => {
         <h2 className="text-3xl font-semibold">Log Files</h2>
 
         <p className="my-3">
-          Uquicks follows a standard procedure of using log files. These files
+          GleanAssist follows a standard procedure of using log files. These files
           log visitors when they visit websites. All hosting companies do this
           and a part of hosting services' analytics. The information collected
           by log files include internet protocol (IP) addresses, browser type,
@@ -132,7 +125,7 @@ const Privacy = () => {
         <h2 className="text-3xl font-semibold">Cookies and Web Beacons</h2>
 
         <p className="my-3">
-          Like any other website, Uquicks uses 'cookies'. These cookies are used
+          Like any other website, GleanAssist uses 'cookies'. These cookies are used
           to store information including visitors' preferences, and the pages on
           the website that the visitor accessed or visited. The information is
           used to optimize the users' experience by customizing our web page
@@ -181,13 +174,13 @@ const Privacy = () => {
 
         <a>
           You may consult this list to find the Privacy Policy for each of the
-          advertising partners of Uquicks.
+          advertising partners of GleanAssist.
         </a>
 
         <p className="my-3">
           Third-party ad servers or ad networks uses technologies like cookies,
           JavaScript, or Web Beacons that are used in their respective
-          advertisements and links that appear on Uquicks, which are sent
+          advertisements and links that appear on GleanAssist, which are sent
           directly to users' browser. They automatically receive your IP address
           when this occurs. These technologies are used to measure the
           effectiveness of their advertising campaigns and/or to personalize the
@@ -195,14 +188,14 @@ const Privacy = () => {
         </p>
 
         <p className="my-3">
-          Note that Uquicks has no access to or control over these cookies that
+          Note that GleanAssist has no access to or control over these cookies that
           are used by third-party advertisers.
         </p>
 
         <h2 className="text-3xl font-semibold">Third Party Privacy Policies</h2>
 
         <p className="my-3">
-          Uquicks's Privacy Policy does not apply to other advertisers or
+          GleanAssist's Privacy Policy does not apply to other advertisers or
           websites. Thus, we are advising you to consult the respective Privacy
           Policies of these third-party ad servers for more detailed
           information. It may include their practices and instructions about how
@@ -290,7 +283,7 @@ const Privacy = () => {
         </p>
 
         <p className="my-3">
-          Uquicks does not knowingly collect any Personal Identifiable
+          GleanAssist does not knowingly collect any Personal Identifiable
           Information from children under the age of 13. If you think that your
           child provided this kind of information on our website, we strongly
           encourage you to contact us immediately and we will do our best

@@ -7,7 +7,7 @@ const Layout = ({ children }) => {
   return (
     <div>
       <Head>
-        <title>Uquicks.com | Live Better, the smart choice</title>
+        <title>Glean Assist | Live Better, the smart choice</title>
       </Head>
       <header>
         <Header />

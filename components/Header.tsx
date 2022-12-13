@@ -33,12 +33,12 @@ function Header() {
               <div className="cursor-pointer font-semibold text-4xl flex-shrink-0">
                 <Link href="/">
                   <img
-                    src="/uquicks-logo.png"
-                    alt="uquicks-logo"
+                    src="/gleanassist.png"
+                    alt="gleanassist"
                     className="absolute w-10 top-6 left-28"
                   />
                   <h1 className="font-bold text-4xl text-twitter z-10">
-                    Uquicks
+                    GleanAssist
                   </h1>
                   <p className="text-sm italic font-extralight font-sans">
                     live better, the smart choice
@@ -47,7 +47,7 @@ function Header() {
               </div>
               <div className="flex items-center text-xl md:text-lg lg:text-xl">
                 <div className="hidden md:float-left md:contents">
-                  <Link href="/UquicksBlog">
+                  <Link href="/Blog">
                     <span className="text-black hover:bg-gray-600 hover:text-white block px-3 py-2 rounded-md font-semibold cursor-pointer">
                       Blog
                     </span>

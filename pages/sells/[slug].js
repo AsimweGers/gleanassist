@@ -86,13 +86,6 @@ const SellsDetails = ({ sellposts, sellpost }) => {
         <meta property="og:title" content={title} />
         <meta property="og:image" href={`${urlFor(image && image[index])}`} />
         <link rel="icon" href={`${urlFor(image && image[index])}`} />
-        <meta name="viewport" content="initial-scale=1,width=device-width" />
-        <meta charset="utf-8" />
-        <meta name="theme-color" content="#000000" />
-        <meta name="msvalidate.01" content="636CB3ADD97C4DABBF11D6B5656DB622" />
-        <link rel="manifest" href="/manifest.json" />
-        <link href="/static/css/2.a844480a.chunk.css" rel="stylesheet" />
-        <link href="/static/css/main.283a044d.chunk.css" rel="stylesheet" />
       </Head>
       <div className=" w-full">
         <div className="lg:px-56 md:px-20 px-4 pt-4 w-full">

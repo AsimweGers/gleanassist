@@ -54,10 +54,10 @@ const Home = ({
 }) => (
   <div className="p-4">
     <Head>
-      <title>Uquicks.com | Live Better, the smart choice</title>
+      <title>GleanAssist | Live Better, the smart choice</title>
       <meta
         name="keywords"
-        content="uquick, uquicks, uquicks.com,quicks,quick, quicks.com, Uquicks.com, Kasese News Updates, Kasese Technology, Loans in Kasese, Insurance in Kasese, Make Money Kasese, Kasese Entertainment, Free Data Kasese,how to see my ubteb results online, how to see my uneb results online,how to see my unmeb results online, Services at Free Costs in Kasese, Rwenzori tv live Rwenzori tv live streaming,"
+        content=" GleanAssist, GleanAssist, GleanAssist, Kasese News Updates, Kasese Technology, Loans in Kasese, Insurance in Kasese, Make Money Kasese, Kasese Entertainment, Free Data Kasese,how to see my ubteb results online, how to see my uneb results online,how to see my unmeb results online, Services at Free Costs in Kasese, Rwenzori tv live Rwenzori tv live streaming,"
       />
       <meta
         name="description"
@@ -65,16 +65,9 @@ const Home = ({
       />
       <meta
         property="og:title"
-        content="Uquicks.com | Live Better, the smart choice"
+        content="GleanAssist | Live Better, the smart choice"
       />
-      <link rel="icon" href="/uquicks-logo.png" />
-      <meta name="viewport" content="initial-scale=1,width=device-width" />
-      <meta charset="utf-8" />
-      <meta name="theme-color" content="#000000" />
-      <meta name="msvalidate.01" content="636CB3ADD97C4DABBF11D6B5656DB622" />
-      <link rel="manifest" href="/manifest.json" />
-      <link href="/static/css/2.a844480a.chunk.css" rel="stylesheet" />
-      <link href="/static/css/main.283a044d.chunk.css" rel="stylesheet" />
+      <link rel="icon" href="/gleanassist.png" />
     </Head>
     <div className="gap-2">
       <div>
@@ -110,7 +103,7 @@ const Home = ({
           <Blog key={latestposts._id} latestpost={latestpost} />
         ))}
       </div>
-      <Link href="/UquicksBlog">
+      <Link href="/Blog">
         <button className=" flex right-28 hover:transition-transform hover:translate-x-3 hover:bg-twitter absolute text-sm font-serif bg-soil px-2 py-1 rounded-2xl items-center text-white">
           View all
         </button>

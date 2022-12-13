@@ -30,16 +30,16 @@ const ContactUs = (props) => {
   return (
     <>
       <Head>
-        <title>Contact Us for any Help | Uquicks.com</title>
+        <title>Contact Us for any Help | GleanAssist</title>
         <meta
           name="description"
-          content="Contact Us | Uquicks.com, contact for any help, We are readily available 24 / 7"
+          content="Contact Us | GleanAssist, contact for any help, We are readily available 24 / 7"
         />
         <meta
           property="og:title"
-          content="Contact Us for any Help | Uquicks.com"
+          content="Contact Us for any Help | GleanAssist"
         />
-        <link rel="icon" href="/uquicks-logo.png" />
+        <link rel="icon" href="/gleanassist.png" />
         <link
           href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
           rel="stylesheet"
@@ -50,17 +50,10 @@ const ContactUs = (props) => {
           rel="stylesheet"
           type="text/css"
         />
-        <meta name="viewport" content="initial-scale=1,width=device-width" />
-        <meta charset="utf-8" />
-        <meta name="theme-color" content="#000000" />
-        <meta name="msvalidate.01" content="636CB3ADD97C4DABBF11D6B5656DB622" />
-        <link rel="manifest" href="/manifest.json" />
-        <link href="/static/css/2.a844480a.chunk.css" rel="stylesheet" />
-        <link href="/static/css/main.283a044d.chunk.css" rel="stylesheet" />
       </Head>
       <Container>
         <div className="text-center text-lg mb-1 justify-center transition duration-500 ease transform hover:-translate-y-1 inline-block items-center lg:items-center bg-gray-400 rounded-full text-white px-4 py-3 mx-10 ">
-          <h1>Contact Uquicks</h1>
+          <h1>Contact GleanAssist</h1>
         </div>
         <p>
           Please type your full name and correct email if you want to connect

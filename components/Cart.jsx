@@ -37,7 +37,7 @@ const Cart = () => {
         {cartItems.length < 1 && (
           <div className="empty-cart">
             <AiOutlineShopping size={150} />
-            <h3>Uquicks.com</h3>
+            <h3>GleanAssist</h3>
             <h3>Shop Faster & Smart</h3>
             <Link href="/SellAndBuy">
               <button

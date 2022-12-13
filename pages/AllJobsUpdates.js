@@ -6,20 +6,20 @@ import { client } from "../lib/client";
 const AllJobsUpdates = ({ jobposts }) => (
   <>
     <Head>
-      <title>Find Your Dream Job Here | Uquicks.com</title>
+      <title>Find Your Dream Job Here | GleanAssist</title>
       <meta
         name="keywords"
-        content="uquick, uquicks,Jobs in Uganda,Jobs in Kampala, uquicks.com,quicks,quick, quicks.com, Uquicks.com, Kasese News Updates, Kasese Technology, Loans in Kasese, Insurance in Kasese, Make Money Kasese, Kasese Entertainment, Free Data Kasese,how to see my ubteb results online, how to see my uneb results online,how to see my unmeb results online, Services at Free Costs in Kasese, Rwenzori tv live Rwenzori tv live streaming,"
+        content="GleanAssist, Jobs in Uganda,Jobs in Kampala, GleanAssist,quicks,quick, quicks.com, GleanAssist, Kasese News Updates, Kasese Technology, Loans in Kasese, Insurance in Kasese, Make Money Kasese, Kasese Entertainment, Free Data Kasese,how to see my ubteb results online, how to see my uneb results online,how to see my unmeb results online, Services at Free Costs in Kasese, Rwenzori tv live Rwenzori tv live streaming,"
       />
       <meta
         name="description"
-        content="Get the latest job opportunities in Uganda. Find your dream with your profile in front of the right employer here at uquicks.com"
+        content="Get the latest job opportunities in Uganda. Find your dream with your profile in front of the right employer here at GleanAssist"
       />
       <meta
         property="og:title"
-        content="Find Your Dream Job Here | Uquicks.com"
+        content="Find Your Dream Job Here | GleanAssist"
       />
-      <link rel="icon" href="/uquicks-logo.png" />
+      <link rel="icon" href="/gleanassist.png" />
     </Head>
     <div className="p-2">
       <div className="products-heading">

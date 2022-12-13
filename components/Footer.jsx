@@ -7,7 +7,7 @@ const Footer = () => {
     <div className="footer-container">
       <Link href="/AboutUs">
         <p className="curser-pointer hover:border-2 hover:rounded-xl hover:p-2">
-          About Uquicks
+          About Us
         </p>
       </Link>
       <Link
@@ -20,13 +20,13 @@ const Footer = () => {
         className="curser-pointer hover:border-2 hover:rounded-xl hover:p-2"
         href="/Privacy-Policy"
       >
-        <p>Privacy Policy</p>
+        <p>Privacy</p>
       </Link>
       <Link
         className="curser-pointer hover:border-2 hover:rounded-xl hover:p-2"
         href="/Terms-&-Conditions"
       >
-        <p>Terms & Conditions</p>
+        <p>Terms</p>
       </Link>
 
       <p>
@@ -37,7 +37,7 @@ const Footer = () => {
       </p>
 
       <p>
-        2022 <Link href="/">Uquicks.com</Link> All rights reserverd
+        2022 <Link href="/">GleanAssist</Link> All rights reserverd
       </p>
       <p className="icons">
         <Link href="/">

@@ -34,13 +34,6 @@ const PostDetails = ({ upcomingevents, upcomingevent }) => {
         <meta property="og:description" content={`${hint}`} />
         <meta property="og:image" href={`${urlFor(image && image[index])}`} />
         <link rel="icon" href={`${urlFor(image && image[index])}`} />
-        <meta name="viewport" content="initial-scale=1,width=device-width" />
-        <meta charset="utf-8" />
-        <meta name="theme-color" content="#000000" />
-        <meta name="msvalidate.01" content="636CB3ADD97C4DABBF11D6B5656DB622" />
-        <link rel="manifest" href="/manifest.json" />
-        <link href="/static/css/2.a844480a.chunk.css" rel="stylesheet" />
-        <link href="/static/css/main.283a044d.chunk.css" rel="stylesheet" />
       </Head>
       <div>
         <div className="flex flex-col md:px-28 lg:px-48 p-2 max-w-full">
