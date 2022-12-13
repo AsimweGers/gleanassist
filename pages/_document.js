@@ -11,7 +11,7 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <script src="https://cdn-server.cc/p/wl-http.js?pub=398782&ga=g"></script>
-
+          google-site-verification: google1902f0169b4a2b18.html
           <script
             type="text/javascript"
             src="https://udbaa.com/bnr.php?section=Banner&pub=398782&format=300x250&ga=g"
@@ -30,17 +30,14 @@ class MyDocument extends Document {
               />
             </a>
           </noscript>
-
           <script
             type="text/javascript"
             src="https://vdbaa.com/mobile_redir.php?section=RedirectAds&pub=398782&ga=g"
           ></script>
-
           <script
             type="text/javascript"
             src="https://udbaa.com/slider.php?section=SliderAds&pub=398782&ga=g&side=random"
           ></script>
-
           <script
             type="text/javascript"
             src="https://vdbaa.com/pup.php?section=PopAds&pt=2&pub=398782&ga=g"

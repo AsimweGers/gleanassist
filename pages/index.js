@@ -103,7 +103,7 @@ const Home = ({
           <Blog key={latestposts._id} latestpost={latestpost} />
         ))}
       </div>
-      <Link href="/Blog">
+      <Link href="/BlogPage">
         <button className=" flex right-28 hover:transition-transform hover:translate-x-3 hover:bg-twitter absolute text-sm font-serif bg-soil px-2 py-1 rounded-2xl items-center text-white">
           View all
         </button>

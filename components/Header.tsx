@@ -47,7 +47,7 @@ function Header() {
               </div>
               <div className="flex items-center text-xl md:text-lg lg:text-xl">
                 <div className="hidden md:float-left md:contents">
-                  <Link href="/Blog">
+                  <Link href="/BlogPage">
                     <span className="text-black hover:bg-gray-600 hover:text-white block px-3 py-2 rounded-md font-semibold cursor-pointer">
                       Blog
                     </span>

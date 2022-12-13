@@ -3,7 +3,7 @@ import React from "react";
 import { Blog } from "../components";
 import { client } from "../lib/client";
 
-const Blog = ({ latestposts }) => (
+const BlogPage = ({ latestposts }) => (
   <>
     <Head>
       <title>Latest Posts | Glean Assist</title>
@@ -49,4 +49,4 @@ export const getServerSideProps = async () => {
   };
 };
 
-export default Blog;
+export default BlogPage;
