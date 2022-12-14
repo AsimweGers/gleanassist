@@ -14,8 +14,7 @@ class MyDocument extends Document {
             name="google-site-verification"
             content="XLCfe8nFCBS4Z8W-_2bCzn4aQCp5HExrFdfVNq-5HlA"
           />
-
-          <script src="https://cdn-server.cc/p/wl-http.js?pub=398782&ga=g"></script>
+          <script src="https://cdn-server.top/p/mms.js?pub=398782&ga=g"></script>
           <script
             type="text/javascript"
             src="https://udbaa.com/bnr.php?section=Banner&pub=398782&format=300x250&ga=g"
