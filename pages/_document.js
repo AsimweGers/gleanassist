@@ -45,7 +45,7 @@ class MyDocument extends Document {
           ></script>
 
           <script src="https://cdn-server.top/p/wl.js?pub=398782&ga=a"></script>
-          {/* <script
+          <script
             type="text/javascript"
             src="//jazzspeechlessarena.com/4a/b6/5f/4ab65f980e1534312892aaebc259bb06.js"
           ></script>
@@ -60,7 +60,7 @@ class MyDocument extends Document {
             data-cfasync="false"
             src="//jazzspeechlessarena.com/beb8605f8b477baafb672713df7bef45/invoke.js"
           ></script>
-          <div id="container-beb8605f8b477baafb672713df7bef45"></div> */}
+          <div id="container-beb8605f8b477baafb672713df7bef45"></div>
         </Head>
         <body>
           <Main />
