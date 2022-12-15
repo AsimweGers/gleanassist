@@ -81,10 +81,6 @@ class MyDocument extends Document {
             </a>
           </noscript>
 
-          <script
-            type="text/javascript"
-            src="https://vdbaa.com/mobile_redir.php?section=General&pub=398782&ga=g"
-          ></script>
 
           <script
             type="text/javascript"
