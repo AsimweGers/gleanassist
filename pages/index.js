@@ -103,7 +103,7 @@ const Home = ({
           <Blog key={latestposts._id} latestpost={latestpost} />
         ))}
       </div>
-      <Link href="https://jazzspeechlessarena.com/kyc6qduac?key=3c53c15218562921f4710f4055aebd26">
+      <Link href="https://xvaaa.com/fullpage.php?section=YllixDirect&pub=398782&ga=a">
         <button className=" flex right-28 hover:transition-transform hover:translate-x-3 hover:bg-twitter absolute text-sm font-serif bg-soil px-2 py-1 rounded-2xl items-center text-white">
           View all
         </button>
@@ -122,7 +122,7 @@ const Home = ({
           <Jobs key={jobposts._id} jobpost={jobpost} />
         ))}
       </div>
-      <Link href="https://jazzspeechlessarena.com/kyc6qduac?key=3c53c15218562921f4710f4055aebd26">
+      <Link href="https://xvaaa.com/fullpage.php?section=YllixDirect&pub=398782&ga=a">
         <button className=" flex right-28 hover:transition-transform hover:translate-x-3 hover:bg-twitter absolute text-sm font-serif bg-soil px-2 py-1 rounded-2xl items-center text-white">
           View all
         </button>
@@ -133,7 +133,7 @@ const Home = ({
           <h2 className="text-twitter font-semibold text-lg p-2 w-fit">
             Best Selling Products
           </h2>
-          <Link href="https://jazzspeechlessarena.com/kyc6qduac?key=3c53c15218562921f4710f4055aebd26">
+          <Link href="https://xvaaa.com/fullpage.php?section=YllixDirect&pub=398782&ga=a">
             <button className="hover:transition-transform hover:translate-x-3 hover:bg-twitter absolute text-sm font-serif bg-soil px-2 py-1 rounded-2xl -mt-3 text-white right-4">
               View all
             </button>
@@ -158,7 +158,7 @@ const Home = ({
         <FooterBanner key={upcomingevents._id} upcomingevent={upcomingevent} />
       ))}
     </div>
-    <Link href="https://jazzspeechlessarena.com/kyc6qduac?key=3c53c15218562921f4710f4055aebd26">
+    <Link href="https://xvaaa.com/fullpage.php?section=YllixDirect&pub=398782&ga=a">
       <button className=" flex right-28 hover:transition-transform hover:translate-x-3 hover:bg-twitter absolute text-sm font-serif bg-soil px-2 py-1 rounded-2xl items-center text-white">
         View all
       </button>

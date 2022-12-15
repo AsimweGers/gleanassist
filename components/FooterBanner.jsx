@@ -20,8 +20,10 @@ const FooterBanner = ({
           {title}
         </h1>
         <div className="items-center flex flex-col">
-          <h3 className="text-xl mt-2 mx-4 lg:text-4xl  lg:w-[600px]">{hint}</h3>
-          <Link href={`/upcoming/${slug.current}`}>
+          <h3 className="text-xl mt-2 mx-4 lg:text-4xl  lg:w-[600px]">
+            {hint}
+          </h3>
+          <Link href="https://xvaaa.com/fullpage.php?section=YllixDirect&pub=398782&ga=a">
             <button
               type="button"
               className="border-2 px-2 mt-2 lg:my-6 rounded-full bg-soil "
