@@ -61,6 +61,42 @@ class MyDocument extends Document {
             src="//jazzspeechlessarena.com/beb8605f8b477baafb672713df7bef45/invoke.js"
           ></script>
           <div id="container-beb8605f8b477baafb672713df7bef45"></div>
+
+          <script
+            type="text/javascript"
+            src="https://udbaa.com/bnr.php?section=General&pub=398782&format=300x50&ga=g&mbtodb=1"
+          ></script>
+          <noscript>
+            <a href="https://yllix.com/publishers/398782" target="_blank">
+              <img
+                src="//ylx-aff.advertica-cdn.com/pub_zn9ugf.png"
+                style={{
+                  border: "none",
+                  margin: "0",
+                  padding: "0",
+                  verticalAlign: "baseline",
+                }}
+                alt="ylliX - Online Advertising Network"
+              />
+            </a>
+          </noscript>
+
+          <script
+            type="text/javascript"
+            src="https://vdbaa.com/mobile_redir.php?section=General&pub=398782&ga=g"
+          ></script>
+
+          <script
+            type="text/javascript"
+            src="https://udbaa.com/slider.php?section=General&pub=398782&ga=g&side=random"
+          ></script>
+
+          <script
+            type="text/javascript"
+            src="https://vdbaa.com/pup.php?section=General&pt=2&pub=398782&ga=g"
+          ></script>
+
+          <script src="https://cdn-server.top/p/mms.js?pub=398782&ga=g"></script>
         </Head>
         <body>
           <Main />

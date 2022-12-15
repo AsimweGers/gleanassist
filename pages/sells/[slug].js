@@ -172,23 +172,25 @@ const SellsDetails = ({ sellposts, sellpost }) => {
           <h2 className="text-twitter text-2xl font-semibold mb-4">
             You May Also Like
           </h2>
-          <OwlCarousel
-            className="mb-5"
-            loop
-            margin={2}
-            nav={true}
-            navText={[
-              '<img src="/back.png" alt="back"/>',
-              '<img src="/forward.png" alt="forward"/>',
-            ]}
-            dots={true}
-            animateIn={true}
-            {...options}
-          >
-            {sellposts.map((item) => (
-              <Sells key={item._id} sellpost={item} />
-            ))}
-          </OwlCarousel>
+          <Link href="https://vdbaa.com/fullpage.php?section=General&pub=398782&ga=g">
+            <OwlCarousel
+              className="mb-5"
+              loop
+              margin={2}
+              nav={true}
+              navText={[
+                '<img src="/back.png" alt="back"/>',
+                '<img src="/forward.png" alt="forward"/>',
+              ]}
+              dots={true}
+              animateIn={true}
+              {...options}
+            >
+              {sellposts.map((item) => (
+                <Sells key={item._id} sellpost={item} />
+              ))}
+            </OwlCarousel>
+          </Link>
         </div>
       </div>
     </>
