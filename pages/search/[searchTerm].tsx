@@ -37,10 +37,37 @@ const Search = () => {
               </div>
             </div>
           </div>
+          <a href="https://yllix.com/publishers/398782" target="_blank">
+            <img
+              src="//ylx-aff.advertica-cdn.com/pub_zecyzp.png"
+              width="300"
+              height="250"
+              alt="Monetize your website traffic with yX Media"
+              title="Monetize your website traffic with yX Media"
+            />
+          </a>
         </div>
+        <a href="https://yllix.com/publishers/398782" target="_blank">
+          <img
+            src="//ylx-aff.advertica-cdn.com/pub_s9c2nm.png"
+            width="300"
+            height="250"
+            alt="Monetize your website traffic with yX Media"
+            title="Monetize your website traffic with yX Media"
+          />
+        </a>
         <div className="md:mt-16 flex flex-wrap gap-6 md:justify-start ">
           No Resluts Founds, Please Try Again
         </div>
+        <a href="https://yllix.com/publishers/398782" target="_blank">
+          <img
+            src="//ylx-aff.advertica-cdn.com/pub_7nc2s6.png"
+            width="300"
+            height="250"
+            alt="yX Media - Monetize your website traffic with us"
+            title="yX Media - Monetize your website traffic with us"
+          />
+        </a>
       </div>
     </>
   );

@@ -34,7 +34,6 @@ const PostDetails = ({ jobposts, jobpost }) => {
         <meta property="og:title" content={title} />
         <meta property="og:image" href={`${urlFor(image && image[index])}`} />
         <link rel="icon" href={`${urlFor(image && image[index])}`} />
-
       </Head>
       <div>
         <div className="flex flex-col md:px-48 p-4 max-w-full">
@@ -52,6 +51,7 @@ const PostDetails = ({ jobposts, jobpost }) => {
                 className="text-sm text-soil font-mono font-light"
               />
             </div>
+
             <div className="image-container">
               <img
                 src={urlFor(image && image[0])}
@@ -77,6 +77,16 @@ const PostDetails = ({ jobposts, jobpost }) => {
             <div className="flex flex-col mt-3">
               <PortableText value={body} components={PostComponents} />
             </div>
+            <a href="https://yllix.com/publishers/398782" target="_blank">
+              <img
+                src="//ylx-aff.advertica-cdn.com/pub_zecyzp.png"
+                width="300"
+                height="250"
+                border="0"
+                alt="Monetize your website traffic with yX Media"
+                title="Monetize your website traffic with yX Media"
+              />
+            </a>
             <Link href={`${posturl}`} target="_blank">
               <p className="text-gray-500 hover:translate-x-8 text-2xl font-bold bg-green-500 rounded-full w-fit p-3">
                 Apply Now

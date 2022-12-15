@@ -167,6 +167,16 @@ const SellsDetails = ({ sellposts, sellpost }) => {
               </button>
             </div>
           </div>
+          <a href="https://yllix.com/publishers/398782" target="_blank">
+            <img
+              src="//ylx-aff.advertica-cdn.com/pub_7nc2s6.png"
+              width="300"
+              height="250"
+              border="0"
+              alt="yX Media - Monetize your website traffic with us"
+              title="yX Media - Monetize your website traffic with us"
+            />
+          </a>
         </div>
 
         <div className="items-center flex flex-col my-4 p-2 ">

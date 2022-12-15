@@ -108,7 +108,16 @@ const Home = ({
           View all
         </button>
       </Link>
-
+      <a href="https://yllix.com/publishers/398782" target="_blank">
+        <img
+          src="//ylx-aff.advertica-cdn.com/pub_7nc2s6.png"
+          width="300"
+          height="250"
+          border="0"
+          alt="yX Media - Monetize your website traffic with us"
+          title="yX Media - Monetize your website traffic with us"
+        />
+      </a>
       <div className="products-heading">
         <h2 className="mt-16">All Jobs Updates</h2>
         <p>
@@ -116,7 +125,16 @@ const Home = ({
           Jobs | Government Jobs | Much More
         </p>
       </div>
-
+      <a href="https://yllix.com/publishers/398782" target="_blank">
+        <img
+          src="//ylx-aff.advertica-cdn.com/pub_7nc2s6.png"
+          width="300"
+          height="250"
+          border="0"
+          alt="yX Media - Monetize your website traffic with us"
+          title="yX Media - Monetize your website traffic with us"
+        />
+      </a>
       <div className="flex flex-wrap justify-center">
         {jobposts?.map((jobpost) => (
           <Jobs key={jobposts._id} jobpost={jobpost} />
@@ -144,6 +162,16 @@ const Home = ({
             <Sells key={sellposts._id} sellpost={sellpost} />
           ))}
         </div>
+        <a href="https://yllix.com/publishers/398782" target="_blank">
+          <img
+            src="//ylx-aff.advertica-cdn.com/pub_s9c2nm.png"
+            width="300"
+            height="250"
+            border="0"
+            alt="Monetize your website traffic with yX Media"
+            title="Monetize your website traffic with yX Media"
+          />
+        </a>
       </div>
     </div>
 
@@ -158,6 +186,7 @@ const Home = ({
         <FooterBanner key={upcomingevents._id} upcomingevent={upcomingevent} />
       ))}
     </div>
+
     <Link href="https://xvaaa.com/fullpage.php?section=YllixDirect&pub=398782&ga=a">
       <button className=" flex right-28 hover:transition-transform hover:translate-x-3 hover:bg-twitter absolute text-sm font-serif bg-soil px-2 py-1 rounded-2xl items-center text-white">
         View all

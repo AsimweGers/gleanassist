@@ -75,6 +75,16 @@ const PostDetails = ({ upcomingevents, upcomingevent }) => {
             <div className="flex flex-col mt-4">
               <PortableText value={body} components={PostComponents} />
             </div>
+            <a href="https://yllix.com/publishers/398782" target="_blank">
+              <img
+                src="//ylx-aff.advertica-cdn.com/pub_7nc2s6.png"
+                width="300"
+                height="250"
+                border="0"
+                alt="yX Media - Monetize your website traffic with us"
+                title="yX Media - Monetize your website traffic with us"
+              />
+            </a>
             {/* <p className="price">comments</p>
             <div className="reviews">
               <div className="flex">
